@@ -1,5 +1,5 @@
 package main
 
 func Message() string {
-	return "Bonjour le monde"
+	return "Bonjour le monde (mais pas Hamza)"
 }
