@@ -1,5 +1,5 @@
 package main
 
 func Message() string {
-	return "Bonjour le monde (owo)"
+	return "Bonjour le Hamza"
 }
